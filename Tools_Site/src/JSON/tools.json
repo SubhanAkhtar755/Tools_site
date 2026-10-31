@@ -365,5 +365,11 @@
     "link": "https://woebothealth.com",
     "category": "Chatbot",
     "logo": "https://woebothealth.com/favicon.ico"
+  },
+  {
+    "name": "agent-qa",
+    "link": "https://vostride.com",
+    "category": "Coding",
+    "logo": "https://vostride.com/icon.png"
   }
 ]
